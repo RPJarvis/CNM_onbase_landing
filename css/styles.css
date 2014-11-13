@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#banner-top {
+        background-color:#004890;
+        padding:10px 10px 10px 10px;
+}
+
+#content {
+        padding-left:20px;
+        padding-right:20px;
+
+}
+
+#footer {
+        background-color:#C1C0C0;
+        border-top:3px solid #41b6e6;
+        color:#000;
+        margin-top:450px;
+        height:50px;
+        padding-top:20px;
+        padding-left:10px;
+}
